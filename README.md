@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sanjarbek G'ulomjonov
+# 👋 Hi, I'm Sanjarbek Gulomjonov
 
 ### AI Engineer | Machine Learning • LLMs • Agentic AI • Data Engineering
 
